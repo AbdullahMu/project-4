@@ -13,9 +13,9 @@ The goal of this project is applying **unsupervised learning algorithms**, or **
 
 - Select a dataset from the following datasets:
   1. [Companies in Saudi Arabia](https://www.kaggle.com/pantherxl85/companies-in-saudi-arabia-scrapped-from-zawyacom).
-  2. [Chocolate Bars](https://www.kaggle.com/morad98/cocoa-bars2)
+  2. [Chocolate bars](https://www.kaggle.com/morad98/cocoa-bars2)
   3. [Mangas - MyAnimelList ](https://www.kaggle.com/noraabdull/myanimellist-mangas)
-  4. []()
+  4. [Arabic articles](https://www.kaggle.com/surayhan/arabic-article)
   5. []()
   6. []()
   7. []()
