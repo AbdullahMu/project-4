@@ -16,10 +16,10 @@ The goal of this project is applying **unsupervised learning algorithms**, or **
   2. [Chocolate bars](https://www.kaggle.com/morad98/cocoa-bars2)
   3. [Mangas - MyAnimelList ](https://www.kaggle.com/noraabdull/myanimellist-mangas)
   4. [Arabic articles](https://www.kaggle.com/surayhan/arabic-article)
-  5. []()
-  6. []()
-  7. []()
-  8. []()
+  5. [Movies on Google Play](https://www.kaggle.com/fatimahaloqayli/movies-on-google-play)
+  6. [Big Five Stocks](https://www.kaggle.com/abdullahmu/big-five-stocks)
+  7. [Saudi Projects](https://www.kaggle.com/ghadahaltwalah/saudi-projects-dataset)
+  8. [Laptops Info](https://www.kaggle.com/ghadahalshehrei/laptops-info)
 - Describe selected dataset thoroughly.
 - Define an issue or a problem that you are trying to solve.
 - Clean and prepare your data.
